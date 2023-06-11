@@ -1,4 +1,4 @@
-# 6조 홍정현 최동우
+# Mo-Vieva Magenta
 
 ## Back-end 서버 사용 전 초기 설정
 
@@ -13,28 +13,6 @@
 6. python manage.py migrate
 7. python manage.py loaddata accounts/grades.json accounts/users.json communities/articletags.json movies/genres.json movies/movies.json movies/videos.json movies/keywords.json
 8. python manage.py runserver
-```
-
-## Front-end 서버 사용 전 초기 설정
-
-<hr>
-
-### Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
 ```
 
 ## 업무 내역
@@ -102,7 +80,7 @@ npm run build
   - <https://oror-sine.github.io/mo_vieva_magenta/>
 - 백엔드 api url
   - <https://ssafy-final.herokuapp.com>
-  - url 목록 : <https://github.com/woodong27/SSAFY_Final> - README 참고
+  - url 목록 : <https://github.com/woodong27/SSAFY_Final_Backend> - README 참고
 
 
 ## 사용자 인터페이스(UI) 예시
